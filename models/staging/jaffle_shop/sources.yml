@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: jaffle_shop
+    database: shaped-gravity-358002
+    tables:
+      - name: customers
+      - name: orders
+      

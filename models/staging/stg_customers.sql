@@ -3,4 +3,4 @@ select
     first_name,
     last_name
 
-from `dbt-tutorial`.jaffle_shop.customers
+from  `shaped-gravity-358002.jaffle_shop.customers` 
